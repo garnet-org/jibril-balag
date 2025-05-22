@@ -1,2 +1,4 @@
-# jibril-balag
-A collection of Jibril’s public releases—each update a gentle echo of guidance, shared for all who journey together.
+<p align="center">
+<a href="https://jibril.garnet.ai/">Read the project documentation</a><br>
+<a href="https://discord.gg/44vSshRqab">Join our Discord</a>
+</p>
