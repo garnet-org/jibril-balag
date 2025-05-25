@@ -1,5 +1,3 @@
-
-
 # Jibril: Balag - بلاغ
 
 <p align="center">
